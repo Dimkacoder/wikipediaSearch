@@ -1,0 +1,2 @@
+aiogram~=2.25.1
+Wikipedia-API~=0.5.8
